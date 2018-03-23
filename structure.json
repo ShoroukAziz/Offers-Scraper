@@ -1,0 +1,246 @@
+[
+  {
+    "Attributes": {
+      "ItemImage": {
+        "Class": "OfferImg",
+        "AttributeAvailability": "Y",
+        "ParentClass": "",
+        "Tag": "img"
+      },
+      "ItemLink": {
+        "Class": "BlackBtn",
+        "AttributeAvailability": "Y",
+        "ParentClass": "",
+        "Tag": "a"
+      },
+      "PriceAfter": {
+        "Class": "",
+        "AttributeAvailability": "N",
+        "Tag": "",
+        "ParentClass": ""
+      },
+      "PercentageOff": {
+        "Class": "",
+        "AttributeAvailability": "N",
+        "Tag": "",
+        "ParentClass": ""
+      },
+      "ItemDescription": {
+        "Class": "OfferBrief",
+        "AttributeAvailability": "Y",
+        "Tag": "span",
+        "ParentClass": ""
+      },
+      "ItemBrand": {
+        "Class": "",
+        "AttributeAvailability": "N",
+        "Tag": "",
+        "ParentClass": ""
+      },
+      "ItemName": {
+        "Class": "",
+        "AttributeAvailability": "Y",
+        "Tag": "h2",
+        "ParentClass": "OfferDesc"
+      },
+      "PriceBefore": {
+        "Class": "",
+        "AttributeAvailability": "N",
+        "Tag": "",
+        "ParentClass": ""
+      }
+    },
+    "OfferContainer": {
+      "Class": "OfferContainer",
+      "Tag": "div",
+      "ParentClass": ""
+    },
+    "Meta": {
+      "URL": "https://www.orange.eg/en/offers-promotions/",
+      "Name": "Orange"
+    }
+  },
+  {
+    "Attributes": {
+      "ItemImage": {
+        "Class": "img-size-medium lazy-loaded",
+        "AttributeAvailability": "Y",
+        "ParentClass": "",
+        "Tag": "img"
+      },
+      "ItemLink": {
+        "Class": "",
+        "AttributeAvailability": "Y",
+        "ParentClass": "itemTitle",
+        "Tag": "a"
+      },
+      "PriceAfter": {
+        "Class": "is block sk-clr1",
+        "AttributeAvailability": "Y",
+        "Tag": "span",
+        "ParentClass": ""
+      },
+      "PercentageOff": {
+        "Class": "discount",
+        "AttributeAvailability": "Y",
+        "Tag": "span",
+        "ParentClass": ""
+      },
+      "ItemDescription": {
+        "Class": "",
+        "AttributeAvailability": "N",
+        "Tag": "",
+        "ParentClass": ""
+      },
+      "ItemBrand": {
+        "Class": "",
+        "AttributeAvailability": "N",
+        "Tag": "",
+        "ParentClass": ""
+      },
+      "ItemName": {
+        "Class": "",
+        "AttributeAvailability": "Y",
+        "Tag": "a",
+        "ParentClass": "itemTitle"
+      },
+      "PriceBefore": {
+        "Class": "was block",
+        "AttributeAvailability": "Y",
+        "Tag": "span",
+        "ParentClass": ""
+      }
+    },
+    "OfferContainer": {
+      "Class": "column-block",
+      "Tag": "div",
+      "ParentClass": ""
+    },
+    "Meta": {
+      "URL": "https://deals.souq.com/eg-en/white-friday-countdown/c/4662",
+      "Name": "Souq"
+    }
+  },
+  {
+    "Attributes": {
+      "ItemImage": {
+        "Class": "product-image-photo default_image",
+        "AttributeAvailability": "Y",
+        "ParentClass": "",
+        "Tag": "img"
+      },
+      "ItemLink": {
+        "Class": "product-item-link",
+        "AttributeAvailability": "Y",
+        "ParentClass": "",
+        "Tag": "a"
+      },
+      "PriceAfter": {
+        "Class": "",
+        "AttributeAvailability": "Y",
+        "Tag": "span",
+        "ParentClass": "special-price"
+      },
+      "PercentageOff": {
+        "Class": "product_label product_label_discount",
+        "AttributeAvailability": "Y",
+        "Tag": "span",
+        "ParentClass": ""
+      },
+      "ItemDescription": {
+        "Class": "",
+        "AttributeAvailability": "N",
+        "Tag": "",
+        "ParentClass": ""
+      },
+      "ItemBrand": {
+        "Class": "product brand product-item-brand",
+        "AttributeAvailability": "Y",
+        "Tag": "div",
+        "ParentClass": ""
+      },
+      "ItemName": {
+        "Class": "product-item-link",
+        "AttributeAvailability": "Y",
+        "Tag": "a",
+        "ParentClass": ""
+      },
+      "PriceBefore": {
+        "Class": "",
+        "AttributeAvailability": "Y",
+        "Tag": "span",
+        "ParentClass": "old-price"
+      }
+    },
+    "OfferContainer": {
+      "Class": "product-item-info",
+      "Tag": "div",
+      "ParentClass": ""
+    },
+    "Meta": {
+      "URL": "https://www.btech.com/en/daily-deals.html",
+      "Name": "B.tech"
+    }
+  },
+  {
+    "Attributes": {
+      "ItemImage": {
+        "Class": " lazyloaded",
+        "AttributeAvailability": "Y",
+        "ParentClass": "",
+        "Tag": "img"
+      },
+      "ItemLink": {
+        "Class": "",
+        "AttributeAvailability": "Y",
+        "ParentClass": "product-name",
+        "Tag": "a"
+      },
+      "PriceAfter": {
+        "Class": "",
+        "AttributeAvailability": "Y",
+        "Tag": "span",
+        "ParentClass": "special-price"
+      },
+      "PercentageOff": {
+        "Class": "",
+        "AttributeAvailability": "N",
+        "Tag": "",
+        "ParentClass": ""
+      },
+      "ItemDescription": {
+        "Class": "",
+        "AttributeAvailability": "N",
+        "Tag": "",
+        "ParentClass": ""
+      },
+      "ItemBrand": {
+        "Class": "product-brand",
+        "AttributeAvailability": "Y",
+        "Tag": "div",
+        "ParentClass": ""
+      },
+      "ItemName": {
+        "Class": "",
+        "AttributeAvailability": "Y",
+        "Tag": "a",
+        "ParentClass": "product-name"
+      },
+      "PriceBefore": {
+        "Class": "",
+        "AttributeAvailability": "Y",
+        "Tag": "span",
+        "ParentClass": "old-price"
+      }
+    },
+    "OfferContainer": {
+      "Class": "item-inner",
+      "Tag": "div",
+      "ParentClass": ""
+    },
+    "Meta": {
+      "URL": "https://www.rayashop.com/en/rayashop-deals.html",
+      "Name": "Raya Shop"
+    }
+  }
+]

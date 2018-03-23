@@ -1,0 +1,15 @@
+Orange,https://www.orange.eg/en/offers-promotions/
+Souq,https://deals.souq.com/eg-en/white-friday-countdown/c/4662
+RadioShack,https://radioshack.com.eg/product/special
+B.tech,https://www.btech.com/ar/daily-deals.html
+Raya Shop,https://www.rayashop.com/ar/rayashop-deals.html
+Dawaya (el 3ezaby),http://dawaya.com/el-ezaby-offers.html
+Rkoba,http://rkoba.com/super-deals/?v=fbe46383db39
+Diwan,https://www.diwanegypt.com/storefront/deals.aspx
+The Giftery,http://thegiftery.com/product/filter?offer=1
+Frillu,https://www.frillu.com/collections/s-a-l-e
+coterique,http://coterique.com/product-category/sale/
+Bespoke,http://www.bespokeegypt.com/index.php?route=product/category&path=109
+Style Treasure,http://www.style-treasure.com/sale/
+Meza Shop,https://www.mezashop.com/en/WOW-Offers
+Lady Egypt,https://www.ladyegypt.com/special-offers
